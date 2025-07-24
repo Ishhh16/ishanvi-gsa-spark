@@ -111,7 +111,7 @@ const JourneySection = () => {
               { title: "Technical Foundation", description: "Mastered Python, Web Dev, and ML fundamentals" },
               { title: "Leadership Development", description: "Led projects and built high-performing teams" },
               { title: "Community Building", description: "Fostered collaboration and knowledge sharing" },
-              { title: "Ready for GSA", description: "Prepared to empower IGDTUW's tech community" }
+              { title: "Ready for GSA", description: "Prepared to empower tech communities everywhere" }
             ].map((milestone, index) => (
               <motion.div
                 key={index}

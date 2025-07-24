@@ -15,7 +15,7 @@ const ConnectSection = () => {
       icon: Linkedin,
       title: "Connect on LinkedIn",
       description: "Let's build our professional network",
-      link: "https://linkedin.com/in/ishanvi-srivastava",
+      link: "https://www.linkedin.com/in/ishanvi-srivastava-16i/",
       color: "text-google-blue",
       bgColor: "bg-google-blue/10",
       hoverEffect: "neon-blue"
@@ -24,7 +24,7 @@ const ConnectSection = () => {
       icon: Mail,
       title: "Send an Email",
       description: "Drop me a line anytime",
-      link: "mailto:ishanvi@example.com",
+      link: "mailto:ishanvisri16@gmail.com",
       color: "text-google-red",
       bgColor: "bg-google-red/10", 
       hoverEffect: "neon-green"
@@ -57,7 +57,7 @@ const ConnectSection = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Ready to embark on this journey as Google Student Ambassador? 
-            Let's start building the future of tech education at IGDTUW!
+            Let's start building the future of tech education together!
           </p>
         </motion.div>
 
@@ -113,7 +113,7 @@ const ConnectSection = () => {
           <div className="glass p-8 rounded-2xl max-w-3xl mx-auto neon-google">
             <div className="flex items-center justify-center space-x-3 mb-6">
               <Sparkles className="h-8 w-8 text-google-yellow animate-pulse" />
-              <h3 className="text-3xl font-bold gradient-text">Ready to Transform IGDTUW?</h3>
+              <h3 className="text-3xl font-bold gradient-text">Ready to Transform Tech Education?</h3>
               <Sparkles className="h-8 w-8 text-google-yellow animate-pulse" />
             </div>
             <p className="text-lg text-muted-foreground mb-8">
@@ -126,7 +126,7 @@ const ConnectSection = () => {
               className="bg-gradient-google hover:scale-105 transition-transform text-white font-semibold px-8 py-4 rounded-xl"
             >
               <a 
-                href="https://linkedin.com/in/ishanvi-srivastava" 
+                href="https://www.linkedin.com/in/ishanvi-srivastava-16i/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2"
@@ -154,13 +154,17 @@ const ConnectSection = () => {
               </span>
             </div>
             
-            <div className="flex items-center space-x-4">
+            <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-4">
               <span className="text-sm text-muted-foreground">
                 © 2024 Ishanvi Srivastava
               </span>
               <div className="flex items-center space-x-1">
                 <span className="text-xs text-muted-foreground">Powered by</span>
                 <span className="text-xs gradient-text font-semibold">Google Technologies</span>
+              </div>
+              <div className="flex items-center space-x-1">
+                <span className="text-xs text-muted-foreground">Built with</span>
+                <span className="text-xs gradient-text font-semibold">Gemini AI</span>
               </div>
             </div>
           </div>

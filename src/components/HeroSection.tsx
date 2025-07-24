@@ -82,9 +82,7 @@ const HeroSection = () => {
               <br />
               <span className="text-foreground">Empowering Tech</span>
               <br />
-              <span className="text-foreground">Communities at</span>
-              <br />
-              <span className="text-primary">IGDTUW</span>
+              <span className="text-foreground">Communities</span>
             </motion.h1>
 
             <motion.p 

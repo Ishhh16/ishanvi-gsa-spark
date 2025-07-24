@@ -89,7 +89,7 @@ const WhyGSASection = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto">
             Combining technical expertise, leadership experience, and genuine passion for 
-            community building to create lasting impact at IGDTUW.
+            community building to create lasting impact.
           </p>
         </motion.div>
 
@@ -204,7 +204,7 @@ const WhyGSASection = () => {
               <strong className="text-google-green"> every student</strong> to leverage tools like 
               <strong className="text-google-yellow"> Gemini, Firebase, and Google Cloud</strong> to 
               <strong className="text-google-red"> build innovative solutions</strong>. 
-              Together, we'll create a thriving ecosystem where Google's cutting-edge tools drive student success at IGDTUW.
+              Together, we'll create a thriving ecosystem where Google's cutting-edge tools drive student success.
             </p>
           </div>
         </motion.div>

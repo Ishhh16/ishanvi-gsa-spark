@@ -90,7 +90,7 @@ const GSAVisionSection = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto">
             Transforming learning through interactive experiences that make complex technologies 
-            accessible, engaging, and fun for everyone at IGDTUW.
+            accessible, engaging, and fun for everyone.
           </p>
         </motion.div>
 
