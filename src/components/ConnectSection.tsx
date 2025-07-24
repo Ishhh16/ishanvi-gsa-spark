@@ -150,7 +150,7 @@ const ConnectSection = () => {
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Heart className="h-5 w-5 text-google-red" />
               <span className="text-muted-foreground">
-                Made with passion for tech education at IGDTUW
+                Made with love by Ishanvi
               </span>
             </div>
             

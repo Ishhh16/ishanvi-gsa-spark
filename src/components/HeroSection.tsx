@@ -48,10 +48,11 @@ const HeroSection = () => {
   return (
     <section 
       ref={heroRef}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden tech-grid"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden"
     >
       {/* Background Elements */}
-      <div className="absolute inset-0 bg-gradient-hero opacity-90" />
+      <div className="absolute inset-0 bg-gradient-to-br from-background via-background/95 to-primary/5" />
+      <div className="absolute inset-0 bg-gradient-to-tr from-google-blue/5 via-transparent to-google-green/5" />
       <div className="absolute top-20 left-20 floating-icon">
         <Sparkles className="h-8 w-8 text-google-yellow opacity-70" />
       </div>

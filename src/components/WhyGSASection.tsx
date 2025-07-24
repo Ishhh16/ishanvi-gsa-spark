@@ -47,10 +47,10 @@ const WhyGSASection = () => {
     },
     {
       icon: Heart,
-      title: "Community Builder",
-      shortDesc: "Dedicated to fostering inclusive tech communities",
-      fullDesc: "Strong commitment to building supportive, inclusive communities where every member feels valued and empowered. Focus on creating environments that encourage learning, growth, and mutual support.",
-      achievement: "Built communities of 100+ members",
+      title: "Google Tech Advocate",
+      shortDesc: "Passionate about leveraging Google technologies for innovation",
+      fullDesc: "Extensive experience building projects with Gemini AI, Firebase, and other Google technologies. Committed to inspiring and teaching others to harness the power of Google's cutting-edge tools to create meaningful solutions and drive technological advancement.",
+      achievement: "Built 8+ projects using Gemini & Google tools",
       color: "text-google-red",
       bgColor: "bg-google-red/10"
     }
@@ -199,12 +199,12 @@ const WhyGSASection = () => {
               <h3 className="text-3xl font-bold text-foreground">My GSA Promise</h3>
             </div>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              As your Google Student Ambassador, I commit to creating an environment where 
-              <strong className="text-google-blue"> every student</strong> feels empowered to 
-              <strong className="text-google-green"> explore technology</strong>, 
-              <strong className="text-google-yellow"> build amazing projects</strong>, and 
-              <strong className="text-google-red"> grow into confident leaders</strong>. 
-              Together, we'll build a thriving tech community at IGDTUW.
+              As your Google Student Ambassador, I commit to promoting the incredible potential of 
+              <strong className="text-google-blue"> Google technologies</strong> and empowering 
+              <strong className="text-google-green"> every student</strong> to leverage tools like 
+              <strong className="text-google-yellow"> Gemini, Firebase, and Google Cloud</strong> to 
+              <strong className="text-google-red"> build innovative solutions</strong>. 
+              Together, we'll create a thriving ecosystem where Google's cutting-edge tools drive student success at IGDTUW.
             </p>
           </div>
         </motion.div>
